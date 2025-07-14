@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fakhar 👋</h1>
 <p align="center">
-  🚀 Full-Stack Developer | MERN Stack Expert | AI Enthusiast | 170+ ⭐ Projects on Fiverr
+  🚀 Full-Stack Developer | MERN Stack Expert | AI Enthusiast
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 I'm a passionate **Full-Stack JavaScript Developer** with **6+ years** of experience delivering high-performance, scalable applications. My journey began with a love for code and evolved into mastering the **MERN Stack** and building real-world solutions across web and mobile platforms.
 
-💼 **170+ 5⭐ rated projects on Fiverr**  
+💼 Love **MERN**  
 🎓 Currently pursuing **Masters in Artificial Intelligence**  
 💡 Fascinated by Deep Learning, Machine Learning, and Computer Vision  
 ❤️ A coder at heart — I spend most of my time building things!
